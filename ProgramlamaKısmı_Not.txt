@@ -1,0 +1,3 @@
+A ve B kısımlarında istenen işlemler yani; AES uygulanması ve CFB ve OFB modlarının uygulanması tek kod içinde gerçekteştirilmiştir.Bu kod AES isimli kod'dur.
+C ve D kısımlarında istenen özüt alma ve dosya değişimi kontrolü de bir kod içinde gerçekleştirilmiştir. Bu kod hashing isimli kod'dur.
+Programlama dili olarak Python2 kullanılmıştır.  

@@ -1,0 +1,2 @@
+merhabalar bu bir test dosyasıdır. Dosya üzerinde özüt alma ve şifreleme işlemi yapılacaktır.
+daha sonra dosyanın değişip değişmediği kontrol edilecektir.
